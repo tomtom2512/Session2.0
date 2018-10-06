@@ -1,0 +1,28 @@
+#header{
+	text-align: center;
+	font-family: Tahoma;
+
+}
+
+.red{
+	color: red;
+}
+
+#picture{
+	align-self: left;
+}
+.p{
+	padding left: 170px;
+	margin: 30px;
+	font-size: 11;
+}
+.ul{
+	font-family: consolas;
+	padding-left: 100px;
+}
+.ul2{
+	font-family: consolas;
+	padding-left: 120px;
+	list-style-type: circle;
+	background-color: #ffffff;
+}
